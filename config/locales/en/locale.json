@@ -1,0 +1,7 @@
+{
+  "lang": "En",
+  "phrases": {
+    "startMessage": "Welcome to the Bot!",
+    "unknownCommandMessage": "Unknown command. Please try again."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "telegram-bot-nodejs-boilerplate",
+  "version": "0.0.1",
+  "description": "Telegram Bot Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "nf start"
+  },
+  "engines": {
+    "node": "6.2.2"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "boilerplate",
+    "js",
+    "nodejs",
+    "node"
+  ],
+  "author": "tn <t.nurislamov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.13.4",
+    "foreman": "1.4.1",
+    "forever": "^0.15.2",
+    "telegram-node-bot": "3.0.7",
+    "use-strict": "^1.0.1"
+  }
+}
